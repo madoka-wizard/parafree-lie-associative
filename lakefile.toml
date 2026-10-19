@@ -1,0 +1,15 @@
+name = "parafree"
+version = "0.1.0"
+defaultTargets = ["Parafree"]
+
+[leanOptions]
+autoImplicit = false
+relaxedAutoImplicit = false
+
+[[require]]
+name = "lie-rings"
+git = "https://github.com/TimmPeterson/lie-algebras"
+rev = "ed3d9fb660024ec849884b542cfc779462aea8f5"
+
+[[lean_lib]]
+name = "Parafree"

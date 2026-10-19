@@ -1,0 +1,19 @@
+.lake/
+.tools/
+tmp/
+*.olean
+*.ilean
+*.trace
+
+# Local manuscript, rendered documents, and development notes.
+/parafree_tex/
+/output/
+/docs/
+/lean_detailed_programs_A_B_D.md
+/lean_formalization_plan_A_B_D.md
+/proof_outlines_A_B_D.md
+
+# Editor and operating-system files.
+.DS_Store
+Thumbs.db
+*.swp
