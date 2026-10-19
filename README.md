@@ -145,7 +145,7 @@ where the relation ideal is two-sided. Then:
 - There is an isomorphism of $k$-modules
 
 $$
-H_2(A)=\operatorname{Tor}^{A}_2(k,k)
+H_2(A)=\mathrm{Tor}^{A}_2(k,k)
 \cong\bigoplus_{n\in\mathbb N}k.
 $$
 
